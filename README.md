@@ -1,6 +1,6 @@
 <p align="center">
 <img src="https://img.icons8.com/fluency/240/null/r-project.png" title = "Database / SQL" height='200'></p>
-<!-- comments -→
+
 
 <h1 align="center"> R PROGRAMMING </h1>
 
