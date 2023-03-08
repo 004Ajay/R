@@ -6,16 +6,32 @@
 
 <!-- --------------------------------------------------- -->
 
+## Lab Experiments
+
+* [Experiment 1 → Input from terminal](https://github.com/004Ajay/R/blob/main/Lab%20Experiments/CmdInp.R)
+
+* [Experiment 2 → Min & Max value from a vector](https://github.com/004Ajay/R/blob/main/Lab%20Experiments/VecMinMax.R)
+
+* [Experiment 3 → Factorial & Palindrome of a number](https://github.com/004Ajay/R/blob/main/Lab%20Experiments/fact.R)
+
+* [Experiment 4 → Multiples of Five](https://github.com/004Ajay/R/blob/main/Lab%20Experiments/MultiplesOfFive.R)
+
+* [Experiment 5 → Pascals Triangle](https://github.com/004Ajay/R/blob/main/Lab%20Experiments/PasTri.R)
+
+* [Experiment 6 → Nth Largest Element](https://github.com/004Ajay/R/blob/main/Lab%20Experiments/nth_largest.R)
+
+* [Experiment 7 → Nth Element](https://github.com/004Ajay/R/blob/main/Lab%20Experiments/nth_ele.R)
+
+
+<!-- --------------------------------------------------- -->
+
+---
+
+<br>
+
+## Programs
 
 * [Hello World](https://github.com/004Ajay/R/blob/main/HelloWorld.r)
-
-* [Input from terminal](https://github.com/004Ajay/R/blob/main/Lab%20Experiments/CmdInp.R)
-
-* [Min & Max value from a vector](https://github.com/004Ajay/R/blob/main/Lab%20Experiments/VecMinMax.R)
-
-* [Factorial & Palindrome of a number](https://github.com/004Ajay/R/blob/main/Lab%20Experiments/fact.R)
-
-* [Multiples of Five](https://github.com/004Ajay/R/blob/main/Lab%20Experiments/MultiplesOfFive.R)
 
 <!-- ---------------------------------------------------
 
